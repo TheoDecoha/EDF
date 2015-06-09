@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EDF_DECOHA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_affiche_client">AfficheClient</string>
+    <string name="title_activity_modif_client">ModifClient</string>
+    <string name="title_activity_geoloc">Geoloc</string>
+
+</resources>
